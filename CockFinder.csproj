@@ -17,10 +17,10 @@
   <ItemGroup />
   <ItemGroup>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\Release_841_1\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\Release_842\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="FiddlerCore">
-      <HintPath>..\Release_841_1\FiddlerCore.dll</HintPath>
+      <HintPath>..\Release_842\FiddlerCore.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
